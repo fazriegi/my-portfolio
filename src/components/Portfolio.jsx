@@ -7,7 +7,7 @@ const Portfolio = () => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch("./../../projects.json");
+        const response = await fetch("/projects.json");
         const data = await response.json();
         setProjects(data);
       } catch (error) {
