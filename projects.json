@@ -1,0 +1,38 @@
+[
+    {
+        "title":"My Gram API",
+        "description":"API for social media application.",
+        "language":"Golang",
+        "link":"https://github.com/fazriegi/my-gram"
+    },
+    {
+        "title":"Send Email API",
+        "description":"API for sending email.",
+        "language":"TypeScript",
+        "link":"https://github.com/fazriegi/send-email-API"
+    },
+    {
+        "title":"Apotek API",
+        "description":"API for apotek online application.",
+        "language":"Golang",
+        "link":"https://github.com/fazriegi/mini-project-apotek"
+    },
+    {
+        "title":"Camilin Landing Page",
+        "description":"F&B website landing page.",
+        "language":"HTML",
+        "link":"https://github.com/fazriegi/camilin"
+    },
+    {
+        "title":"SILOKERNF",
+        "description":"Job vacancy web application.",
+        "language":"PHP",
+        "link":"https://github.com/fazriegi/Project-Akhir-CI-Siloker-NF/tree/dev"
+    },
+    {
+        "title":"Winkel Landing Page",
+        "description":"UMKM website landing page.",
+        "language":"HTML",
+        "link":"https://github.com/fazriegi/Winkel-Landing-Page"
+    }
+]
