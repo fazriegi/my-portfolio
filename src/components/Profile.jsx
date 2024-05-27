@@ -12,8 +12,8 @@ const Profile = () => {
         alt="Profile Picture"
         className="rounded-full w-44 mx-auto md:w-48 lg:w-52 xl:w-60 2xl:w-72"
       />
-      <h1 className="mt-4 text-2xl lg:text-3xl font-bold 2xl:text-4xl">Fazri Egi Ramadhan</h1>
-      <h2 className="mt-2 text-xl font-semibold text-slate-300 xl:text-2xl">Backend Developer</h2>
+      <h1 className="mt-4 text-primary-text text-2xl lg:text-3xl font-bold 2xl:text-4xl">Fazri Egi Ramadhan</h1>
+      <h2 className="mt-2 text-secondary-text text-xl font-semibold xl:text-2xl">Backend Developer</h2>
       <div className="flex justify-center gap-4 mt-4">
         <SocialLink
           link="https://www.linkedin.com/in/fazri-egi-ramadhan"
