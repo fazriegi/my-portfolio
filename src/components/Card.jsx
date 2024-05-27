@@ -1,9 +1,10 @@
 const Card = ({ title, description, programmingLang, link }) => {
   return (
-    <a href={link} target="_blank" className="lg:w-5/12 xl:w-[26rem] 2xl:w-[29rem]">
-      <div className="rounded-lg bg-secondary mb-4 p-4 transform transition duration-500 shadow shadow-slate-800 hover:scale-105 lg:w-full lg:mb-2 xl:w-full 2xl:w-[29rem]">
-        <h1 className="text-xl font-semibold">{title}</h1>
-        <p className="mt-2 text-lg">{description}</p>
+    <a href={link} target="_blank" className="w-full sm:w-[49%] md:w-[45%] lg:w-5/12 xl:w-[45%] 2xl:w-[28%]">
+      <div className="rounded-lg bg-secondary p-4 transform transition duration-500 shadow shadow-slate-800 hover:scale-105 lg:w-full lg:mb-2 xl:w-full">
+      <h1 className="text-lg md:text-xl lg:text-2xl font-semibold">{title}</h1>
+      <p className="mt-2 text-base md:text-lg">{description}</p>
+
         <div className="mt-4 flex items-center">
           <svg
             width="2em"

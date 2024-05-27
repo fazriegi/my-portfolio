@@ -4,8 +4,8 @@ import Footer from "./components/Footer";
 
 const App = () => {
   return (
-    <div className="text-white">
-      <div className="mt-10 xl:flex xl:w-full">
+    <div className="text-white w-full">
+      <div className="flex flex-col xl:flex-row xl:min-h-[90vh] xl:w-full xl:px-6">
         <Profile />
         <Portfolio />
       </div>
@@ -13,5 +13,6 @@ const App = () => {
     </div>
   );
 };
+
 
 export default App;
