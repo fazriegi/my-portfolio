@@ -1,43 +1,43 @@
 [
     {
-        "title":"Profiln Backend System",
-        "description":"Backend system for career profiling platform.",
+        "title":"Profiln API",
+        "description":"REST API for career profiling platform.",
         "language":"Go (Golang)",
         "link":"https://github.com/fazriegi/profiln-backend"
     },
     {
         "title":"My Gram API",
-        "description":"API for social media application.",
+        "description":"REST API for social media application.",
         "language":"Go (Golang)",
         "link":"https://github.com/fazriegi/my-gram"
     },
     {
         "title":"Send Email API",
-        "description":"API for sending email.",
+        "description":"REST API for sending email.",
         "language":"TypeScript",
         "link":"https://github.com/fazriegi/send-email-API"
     },
     {
         "title":"Apotek API",
-        "description":"API for apotek online application.",
+        "description":"REST API for apotek online application.",
         "language":"Go (Golang)",
         "link":"https://github.com/fazriegi/mini-project-apotek"
     },
     {
         "title":"Camilin Landing Page",
-        "description":"F&B website landing page.",
+        "description":"F&B landing page website.",
         "language":"HTML",
         "link":"https://github.com/fazriegi/camilin"
     },
     {
         "title":"SILOKERNF",
         "description":"Job vacancy web application.",
-        "language":"PHP",
+        "language":"PHP (CodeIgniter 3)",
         "link":"https://github.com/fazriegi/Project-Akhir-CI-Siloker-NF/tree/dev"
     },
     {
         "title":"Winkel Landing Page",
-        "description":"UMKM website landing page.",
+        "description":"UMKM landing page website.",
         "language":"HTML",
         "link":"https://github.com/fazriegi/Winkel-Landing-Page"
     }
